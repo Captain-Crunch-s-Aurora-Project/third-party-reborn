@@ -5,7 +5,7 @@
         <description>The Clasp Member background from the Tal’Dorei Campaign Setting.</description>
         <author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
         <update version="0.0.1">
-            <file name="background-claspmember.xml" url="https://raw.githubusercontent.com/Captain-Crunch-s-Aurora-Project/third-party-reborn/main/third-party-reborn/critical-role/taldorei-campaign-setting/backgrounds/background-claspmember.xml" />
+            <file name="background-claspmember.xml" url="https://raw.githubusercontent.com/Captain-Crunch-s-Aurora-Project/third-party-reborn/main/third-party-reborn/critical-role/taldorei-campaign-setting/background-claspmember.xml" />
         </update>
     </info>
     <element name="Clasp Member" type="Background" source="Critical Role: Tal’Dorei Campaign Setting" id="ID_CRIT_TCS_BACKGROUND_CLASP_MEMBER">
