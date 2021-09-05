@@ -5,7 +5,7 @@
 		<description>The content from Critical Role.</description>
 		<author url="https://geekandsundry.com/shows/critical-role/">Critical Role</author>
 		<update version="0.0.1">
-			<file name="critical-role.index" url="https://raw.githubusercontent.com/Captain-Crunch-s-Aurora-Project/third-party-reborn/main/third-party-reborn/critical-role/critical-role.index" />
+			<file name="critical-role.index" url="https://raw.githubusercontent.com/Captain-Crunch-s-Aurora-Project/third-party-reborn/main/third-party-reborn/critical-role.index" />
 		</update>
 	</info>
 	<files>
