@@ -5,7 +5,7 @@
 		<description>The Way of the Cobalt Soul archetype from the Tal’Dorei Campaign Setting.</description>
 		<author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
 		<update version="0.0.3">
-			<file name="monk-cobaltsoul.xml" url="https://raw.githubusercontent.com/Captain-Crunch-s-Aurora-Project/third-party-reborn/main/third-party-reborn/critical-role/taldorei-campaign-setting/archetypes/monk-cobaltsoul.xml" />
+			<file name="monk-cobaltsoul.xml" url="https://raw.githubusercontent.com/Captain-Crunch-s-Aurora-Project/third-party-reborn/main/third-party-reborn/critical-role/taldorei-campaign-setting/monk-cobaltsoul.xml" />
 		</update>
 	</info>
 
