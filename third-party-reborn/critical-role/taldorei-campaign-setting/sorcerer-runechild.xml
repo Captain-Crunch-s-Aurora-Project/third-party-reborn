@@ -5,7 +5,7 @@
         <description>The Runechild Sorcerous Origin from the Tal’Dorei Campaign Setting.</description>
         <author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
         <update version="0.0.1">
-            <file name="sorcerer-runechild.xml" url="https://raw.githubusercontent.com/Captain-Crunch-s-Aurora-Project/third-party-reborn/main/third-party-reborn/critical-role/taldorei-campaign-setting/archetypes/sorcerer-runechild.xml" />
+            <file name="sorcerer-runechild.xml" url="https://raw.githubusercontent.com/Captain-Crunch-s-Aurora-Project/third-party-reborn/main/third-party-reborn/critical-role/taldorei-campaign-setting/sorcerer-runechild.xml" />
         </update>
     </info>
 
