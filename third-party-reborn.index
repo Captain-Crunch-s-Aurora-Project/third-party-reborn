@@ -8,5 +8,6 @@
 		</update>
 	</info>
 	<files>
+		<file name="critical-role.index" url="https://raw.githubusercontent.com/Azzzzzy/third-party-reborn/Critical-Role/third-party-reborn/critical-role.index" />
 	</files>
 </index>
