@@ -3,11 +3,12 @@
 	<info>
 		<name>Third Party</name>
 		<description>The content from various third party sources.</description>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="third-party-reborn.index" url="https://raw.githubusercontent.com/Captain-Crunch-s-Aurora-Project/third-party-reborn/main/third-party-reborn.index" />
 		</update>
 	</info>
 	<files>
+		<file name="arcanum-worlds.index" url="https://raw.githubusercontent.com/Captain-Crunch-s-Aurora-Project/third-party-reborn/main/third-party-reborn/arcanum-worlds.index" />
 		<file name="critical-role.index" url="https://raw.githubusercontent.com/Captain-Crunch-s-Aurora-Project/third-party-reborn/main/third-party-reborn/critical-role.index" />
 	</files>
 </index>
